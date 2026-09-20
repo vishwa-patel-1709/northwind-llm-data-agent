@@ -1,0 +1,9 @@
+# Core
+pandas>=2.0
+requests>=2.31
+
+# Charts
+matplotlib>=3.8
+
+# UI
+streamlit>=1.35
